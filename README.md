@@ -1,5 +1,4 @@
-Below are PostgreSQL and MySQL queries written during my 3 month 'Data Analyst Internship' at Bungaejangter Int.(2021.01.11-2021.04.10)<br>
-They are sorted by time order.<br>
+Below are PostgreSQL and MySQL queries written during my 3 month 'Data Analyst Internship' at Bungaejangter Int.(2021.01.11-2021.04.10) They are sorted by time order.<br>
 
 
 ### SQL Queries
