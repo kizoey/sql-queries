@@ -1,10 +1,9 @@
-## [번개장터] SQL Queries
-💡<b>2021.01.11 ~ 2021.04.10</b><br>
-3개월간 <b>번개장터 데이터 분석 인턴생활</b>을 하면서 직접 작성한 PostgreSQL, MySQL 쿼리문 모음<br>
-Redshift를 사용했으며 아래는 쿼리를 작성한 순서대로 나열해보았다.
+<b>2021.01.11 ~ 2021.04.10</b><br>
+Below are queries written by using PostgreSQL and MySQL during my 3 month 'Data Analyst Internship' at Bungaejangter Int.<br>
+Following queries are sorted by time order.<br>
 
 
-### 쿼리문 종류
+### SQL Queries
 - 연령대별 유저 
 - [Monthly] '18-'20 월별 누적 MZ세대 가입자 수
 - [Monthly] 평균 신규 가입자 수
