@@ -1,16 +1,16 @@
 ## SQL_Queries
-- 프로젝트 개요: 번개장터 주식회사에서 3개월의 데이터 분석 인턴십 기간동안 작성한 SQL 쿼리문 모음
-- 프로젝트 진행기간: 2021.01.11 - 2021.04.10
-- 사용언어: PostgreSQL, MySQL
+- <b>프로젝트 개요:</b> 번개장터 주식회사에서 3개월의 데이터 분석 인턴십 기간동안 작성한 SQL 쿼리문 모음
+- <b>프로젝트 진행기간:</b> 2021.01.11 - 2021.04.10
+- <b>사용언어:</b> PostgreSQL, MySQL
+- <b>역할:</b> 데이터 분석 인턴, A/B 테스트, SQL 쿼리문 작성, 신규 가입 고객 이탈 예측 모델링
 
 ### 깃 파일
-- klue_crawling: 클루(고려대학교 강의평가 사이트)에서 강의평, 학점/학습량/난이도/성취감 4개 지표에 대한 데이터 크롤링
-datathon_data_preprocess: 데이터톤측에서 제공한 교내 강의데이터 전처리
-evaluation_data_preprocess: 클루 강의평 텍스트 데이터 전처리
-consecutive_classes: 연속되는 강의 분별하는 알고리즘
-weight_timetable: 사용자가 입력하는 요소에 따라 시간표 후보에 가중치 부여하는 알고리즘
-recommendation_timetable: 시간표 후보 중 최적 시간표 추천하는 알고리즘
-apriori_visualization: Apriori 알고리즘을 이용한 연관분석, 워드클라우드 시각화
+- Annually: 매년 ~ 쿼리문 종류
+- Quarterly: 분기별 ~ 쿼리문 종류
+- Monthly: 월별 ~ 쿼리문 종류
+- Weekly: 주별 ~ 쿼리문 종류
+- Daily: 일별 ~ 쿼리문 종류
+- Random: 기타
 
 
 ### 쿼리문 종류
