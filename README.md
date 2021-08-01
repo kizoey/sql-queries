@@ -1,7 +1,19 @@
-Below are PostgreSQL and MySQL queries written during my 3 month 'Data Analyst Internship' at Bungaejangter Int.(2021.01.11-2021.04.10) They are sorted by time order.<br>
+## SQL_Queries
+- 프로젝트 개요: 번개장터 주식회사에서 3개월의 데이터 분석 인턴십 기간동안 작성한 SQL 쿼리문 모음
+- 프로젝트 진행기간: 2021.01.11 - 2021.04.10
+- 사용언어: PostgreSQL, MySQL
+
+### 깃 파일
+- klue_crawling: 클루(고려대학교 강의평가 사이트)에서 강의평, 학점/학습량/난이도/성취감 4개 지표에 대한 데이터 크롤링
+datathon_data_preprocess: 데이터톤측에서 제공한 교내 강의데이터 전처리
+evaluation_data_preprocess: 클루 강의평 텍스트 데이터 전처리
+consecutive_classes: 연속되는 강의 분별하는 알고리즘
+weight_timetable: 사용자가 입력하는 요소에 따라 시간표 후보에 가중치 부여하는 알고리즘
+recommendation_timetable: 시간표 후보 중 최적 시간표 추천하는 알고리즘
+apriori_visualization: Apriori 알고리즘을 이용한 연관분석, 워드클라우드 시각화
 
 
-### SQL Queries
+### 쿼리문 종류
 - 연령대별 유저 
 - [Monthly] '18-'20 월별 누적 MZ세대 가입자 수
 - [Monthly] 평균 신규 가입자 수
