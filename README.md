@@ -1,6 +1,6 @@
 <h1> sql Queries </h1>
 This repository is a collection of Postgresql and Mysql queries written during my internship program at <b><i>Bungaejangter</i></b>. The files are divided based on a large theme of 'time cycle': <i>annually, quarterly, monthly, weekly and random</i>. 
-For instance, queries belonging to the collection of 'monthly' are queries that are designed to extract data at a monthly basis. 
+For instance, queries belonging to the collection of 'monthly' are queries that are designed to extract data at a monthly basis. <br>
 The overall architecture of the reposit is shown below. 
 
 <h2> Queries list-up </h2>
